@@ -1,5 +1,3 @@
-@file:JvmName("BooleanTypesKt")
-
 package com.luizfranzon.kotlinbasics.exercises
 
 fun main() {
@@ -29,5 +27,4 @@ fun main() {
     phrase = "$userName agora tem $userAge anos de idade"
 
     println(phrase)
-
 }
